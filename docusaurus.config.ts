@@ -18,7 +18,7 @@ const config: Config = {
   url: 'https://danii9790.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Physical-AI-Humanoid-Robotics-Book/',
+  baseUrl: '/',
   trailingSlash: true,
 
   // GitHub pages deployment config.
