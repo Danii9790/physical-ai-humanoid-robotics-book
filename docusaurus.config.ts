@@ -22,7 +22,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-username', // Usually your GitHub org/user name.
+  organizationName: 'Danii9790', // Usually your GitHub org/user name.
   projectName: 'Physical-AI-Humanoid-Robotics-Book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -42,7 +42,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/', // Make docs the homepage
-          editUrl: 'https://github.com/Danii9790/Physical-AI-Humanoid-Robotics-Book/tree/main/Doc_Book/',
+          editUrl: 'https://github.com/Danii9790/Physical-AI-Humanoid-Robotics-Book/tree/main/',
         },
         blog: false, // Disable blog for this course site
         theme: {
@@ -80,7 +80,7 @@ const config: Config = {
           label: 'Reference',
         },
         {
-          href: 'https://github.com/your-username/Physical-AI-Humanoid-Robotics-Book',
+          href: 'https://github.com/Danii9790/Physical-AI-Humanoid-Robotics-Book',
           label: 'GitHub',
           position: 'right',
         },
