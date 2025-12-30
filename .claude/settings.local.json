@@ -29,7 +29,9 @@
       "Bash(npm run write-translations:*)",
       "Bash(npm install:*)",
       "Bash(npm uninstall:*)",
-      "Bash(npm run serve:*)"
+      "Bash(npm run serve:*)",
+      "Bash(mkdir:*)",
+      "Bash(git pull:*)"
     ],
     "deny": [],
     "ask": []
